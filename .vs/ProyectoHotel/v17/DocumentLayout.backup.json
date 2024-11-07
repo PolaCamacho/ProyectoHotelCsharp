@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\pagocontarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\pagocontarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\precargareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\precargareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\gestiondehuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\gestiondehuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\gestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\gestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\gestiondehabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\gestiondehabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|c:\\users\\personal\\downloads\\eseste\\proyectohotel\\proyectohotel\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB0FA6-7772-4C23-9322-F54BC569E4E5}|ProyectoHotel\\ProyectoHotel.csproj|solutionrelative:proyectohotel\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Program.cs",
+              "RelativeToolTip": "ProyectoHotel\\Program.cs",
+              "ViewState": "AgIAAAUCAAAAAAAAAAAhwAICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:23:41.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagoConTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PagoConTarjeta.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\PagoConTarjeta.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PagoConTarjeta.cs",
+              "RelativeToolTip": "ProyectoHotel\\PagoConTarjeta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:49:14.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagoEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PagoEfectivo.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\PagoEfectivo.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PagoEfectivo.cs",
+              "RelativeToolTip": "ProyectoHotel\\PagoEfectivo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:48:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrecargaReserva.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PrecargaReserva.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\PrecargaReserva.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\PrecargaReserva.cs",
+              "RelativeToolTip": "ProyectoHotel\\PrecargaReserva.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:04:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionDeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeUsuario.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\GestionDeUsuario.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeUsuario.cs",
+              "RelativeToolTip": "ProyectoHotel\\GestionDeUsuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:45:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Reserva.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Reserva.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Reserva.cs",
+              "RelativeToolTip": "ProyectoHotel\\Reserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA6wAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:51:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Habitacion.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Habitacion.cs",
+              "RelativeToolTip": "ProyectoHotel\\Habitacion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:45:04.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Huesped.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Huesped.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Huesped.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Huesped.cs",
+              "RelativeToolTip": "ProyectoHotel\\Huesped.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:25:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Hotel.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Hotel.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Hotel.cs",
+              "RelativeToolTip": "ProyectoHotel\\Hotel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:08:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Pago.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Pago.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Pago.cs",
+              "RelativeToolTip": "ProyectoHotel\\Pago.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA2wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:25:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\Usuario.cs",
+              "RelativeToolTip": "ProyectoHotel\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA6wA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:39:26.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionDeHuesped.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeHuesped.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\GestionDeHuesped.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeHuesped.cs",
+              "RelativeToolTip": "ProyectoHotel\\GestionDeHuesped.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:25:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestionDeHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeHabitaciones.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel\\GestionDeHabitaciones.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\Downloads\\EsEste\\ProyectoHotel\\ProyectoHotel\\GestionDeHabitaciones.cs",
+              "RelativeToolTip": "ProyectoHotel\\GestionDeHabitaciones.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:23:00.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
